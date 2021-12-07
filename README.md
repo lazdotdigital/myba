@@ -10,4 +10,5 @@ Once both players are either horizontally or vertically aligned, the last player
 
 # How to connect
 
-Run the server, then run the client passing the server URL as the first argument.
+Run the server (ensure you have the environment variable PORT set),
+then run the client passing the server URL as the first argument.
